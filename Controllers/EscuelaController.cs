@@ -12,8 +12,11 @@ namespace platzi_asp_net_core.Controllers
             escuela.AñoDeCreación = 2005;
             escuela.UniqueId = Guid.NewGuid().ToString();
             escuela.Nombre = "Platzi School";
+            escuela.Dirección = "Quinta Mayorga";
+            escuela.Ciudad = "Juárez Chihuahua";
+            escuela.Pais = "México";
             ViewBag.CosaDinamica = "MowGli";
-
+            
             return View(escuela);
         }
     }
