@@ -31,3 +31,4 @@ C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\Platzi\plat
 C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp2.1\platzi-asp-net-core.pdb
 C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp2.1\platzi-asp-net-core.csproj.CopyComplete
 C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp2.1\Razor\Views\Escuela\Index.g.cshtml.cs
+C:\Users\jjfigueroa\OneDrive - kochind.com\Documents\gitRepositories\Platzi\platzi-asp-net-core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Simple.g.cshtml.cs
